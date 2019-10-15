@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="1" failures="0" time="1.63">
-  <testsuite name="Test" errors="0" failures="0" skipped="0" timestamp="2019-10-15T13:36:39" time="0.648" tests="1">
+<testsuites name="jest tests" tests="1" failures="0" time="0.958">
+  <testsuite name="Test" errors="0" failures="0" skipped="0" timestamp="2019-10-15T13:38:13" time="0.56" tests="1">
     <testcase classname="Test should make trivial assertion" name="Test should make trivial assertion" time="0.003">
     </testcase>
   </testsuite>
