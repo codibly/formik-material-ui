@@ -1,0 +1,9 @@
+{
+  "generator-codibly-ts": {
+    "name": "@codibly/formik-material-ui",
+    "description": "",
+    "version": "0.0.0-semantic-release",
+    "repository": "git@github.com:codibly/formik-material-ui.git",
+    "author": "Dawid Hen <dawid.hen@codibly.com>"
+  }
+}
